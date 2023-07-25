@@ -1,100 +1,76 @@
-Johnny Coder
+Hans-Jörg Schnedlitz
 ============
-
-----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
-
-----
-
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2018 - now
+:   **Meister**
+    *Backend Engineer, Staff Engineer*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    Technical lead of Meistertask with millions of users. Lead transition to Kubernetes. Introduced Observability using Opentelemetry. Shipped various product features and improvements, including several integrations (Zapier, Google Calendar, GitHub...).
 
-* First item
+2017- 2018
+:   **Splendit IT-Consulting**
+    *Software Engineer*
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+    Developed an Eclipse plugin for automated code refactoring. Improved internal of build pipeline using Docker & Jenkins. 
 
-**That Other Job You Had**
+2016 - 2020
+:   **Technische Universität Wien**  
+    *Tutor*  
 
-Also with a short description.
+    Coached students in courses for project management, software quality assurance and requirements engineering.  
+
+2013-2015
+:   **Tricentis Technology & Consulting Gmbh.**  
+    *Technical Consultant*
+
+    Part of a scrum team, developed integrations for core product using C#. Developed and maintained WebsphereMQ and ActiveMQ integrations. Helped develop customer facing web application using AngularJS. Held various workshops and implemented solutions at customer sites.  
+    www.tricentis.at
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
+:   Rails Mini Profiler: perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Technologies
+:   **Backend Technologies:** Several years of exerience with **Ruby on Rails** backends and relational databases (e.g. MySQL, Postgres). Solid knowledge of  infrastructure technologies such as Kubernetes and Docker. Significant experience optimizing application performance using APM and Opentelemetry. 
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **Frontend Technologies:** Good knowledge of frontend technologies such as **React** and **Stimulus.js**. Significant experience in working with GraphQL. Passable skills in CSS.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   Rusty knowledge of **C#**, **Java**, **Haskell**, **Common Lisp**
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Other
+: **Software Testing**: Significant experience in test automation and software testing. Significant experience in establishing software testing best practices in various organizations.
+Education
+---------
 
-[ref]: https://github.com/githubuser/superlongprojectname
+2015 - 2020
+:   **Technische Universität Wien**  
+    *BSc Software and Information Engineering*
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+2009 - 2013
+:   **Technische Universität Wien**  
+    *Technische Mathematik / Computermathematik*
 
-* Human Languages:
+2009 - 2013
+:   **Bundesrealgymnasium GRG3**  
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+## Other
 
-* Random tidbit
+* Proficiency in human languages:
+     * German (Native)
+     * English (Fluent)
+     * French (Basic)
 
-* Other sort of impressive-sounding thing you did
+* I enjoy climbing, reading and hiking. 
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <hans.schnedlitz@gmail.com> • +43 (0)680 1212 783 •  Born 17.07.1990
