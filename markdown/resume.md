@@ -5,13 +5,13 @@ Experience
 ----------
 
 2018 - now
-:   **Meister**
+:   **Meister**  
     *Backend Engineer, Staff Engineer*
 
-    Technical lead of Meistertask with millions of users. Lead transition to Kubernetes. Introduced Observability using Opentelemetry. Shipped various product features and improvements, including several integrations (Zapier, Google Calendar, GitHub...).
+    Technical lead of product with millions of users. Lead migration effort towards Kubernetes. Introduced Observability and Opentelemetry at Meister. Shipped various product features and improvements, including several integrations (Zapier, Google Calendar, GitHub...). 
 
 2017- 2018
-:   **Splendit IT-Consulting**
+:   **Splendit IT-Consulting**  
     *Software Engineer*
 
     Developed an Eclipse plugin for automated code refactoring. Improved internal of build pipeline using Docker & Jenkins. 
@@ -23,7 +23,7 @@ Experience
     Coached students in courses for project management, software quality assurance and requirements engineering.  
 
 2013-2015
-:   **Tricentis Technology & Consulting Gmbh.**  
+:   **Tricentis Technology & Consulting Gmbh.**   
     *Technical Consultant*
 
     Part of a scrum team, developed integrations for core product using C#. Developed and maintained WebsphereMQ and ActiveMQ integrations. Helped develop customer facing web application using AngularJS. Held various workshops and implemented solutions at customer sites.  
@@ -32,20 +32,20 @@ Experience
 Technical Experience
 --------------------
 
-Side Projects
-:   Authored several open source libraries, e.g. [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/), [GraphQL-Groups](https://github.com/hschne/graphql-groups).  Minor contributations to Ruby libraries such as [paper_trail](https://github.com/paper-trail-gem/paper_trail), [factory_bot](https://github.com/thoughtbot/factory_bot)
-
 Technologies
-:   **Backend:** Several years of exerience with Ruby on Rails backends and working with relational databases (e.g. MySQL, Postgres). Significant experience maintaining both REST and GraphQL APIs. Significant experience optimizing application performance using APM and Opentelemetry. Experience in messaging infrastructure such as ActiveMQ, Google Cloud PubSub.
+:   **Backend:** Several years of exerience with **Ruby on Rails** backends and relational databases, in particular **MySQL**. Significant experience maintaining both REST and GraphQL APIs. Significant experience optimizing application performance using Opentelemetry. Experience in messaging infrastructure such as ActiveMQ, Google Cloud PubSub.
 
-: **Infrastructure**: Good knowledgeg of Docker and Kubernetes. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintainging and optimizing build pipleines (GitHub Actions, Jenkins,...)
+:   **Infrastructure**: Good knowledgeg of **Docker and Kubernetes**. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintainging and optimizing build pipleines ()
 
-:   **Frontend:** Good knowledge Javascript and Javascript frameworks such as **React** and **Stimulus.js**. Significant experience in working with GraphQL. Passable skills in CSS.
+:   **Frontend:** Good knowledge Javascript and Javascript frameworks such as **React** and Stimulus.js. Significant experience in working with GraphQL. Passable skills in CSS.
 
 :   Rusty knowledge of **C#**, **Java**, **Haskell**.
 
-Other
-: **Software Testing**: Significant experience in test automation and software testing. Significant experience in establishing software testing best practices in various organizations.
+Side Projects
+:   Authored and maintainer of [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/).  Minor contributations to various Ruby libraries.
+
+Testing
+:   Significant experience in test automation and software testing on both backend and frontend. Significant experience in establishing software testing best practices in various organizations.
 
 Education
 ---------
