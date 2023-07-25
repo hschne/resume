@@ -32,22 +32,21 @@ Experience
 Technical Experience
 --------------------
 
-Open Source
-:   Rails Mini Profiler: perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Side Projects
+:   Authored several open source libraries, e.g. [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/), [GraphQL-Groups](https://github.com/hschne/graphql-groups).  Minor contributations to Ruby libraries such as [paper_trail](https://github.com/paper-trail-gem/paper_trail), [factory_bot](https://github.com/thoughtbot/factory_bot)
 
 Technologies
-:   **Backend Technologies:** Several years of exerience with **Ruby on Rails** backends and relational databases (e.g. MySQL, Postgres). Solid knowledge of  infrastructure technologies such as Kubernetes and Docker. Significant experience optimizing application performance using APM and Opentelemetry. 
+:   **Backend:** Several years of exerience with Ruby on Rails backends and working with relational databases (e.g. MySQL, Postgres). Significant experience maintaining both REST and GraphQL APIs. Significant experience optimizing application performance using APM and Opentelemetry. Experience in messaging infrastructure such as ActiveMQ, Google Cloud PubSub.
 
-:   **Frontend Technologies:** Good knowledge of frontend technologies such as **React** and **Stimulus.js**. Significant experience in working with GraphQL. Passable skills in CSS.
+: **Infrastructure**: Good knowledgeg of Docker and Kubernetes. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintainging and optimizing build pipleines (GitHub Actions, Jenkins,...)
 
-:   Rusty knowledge of **C#**, **Java**, **Haskell**, **Common Lisp**
+:   **Frontend:** Good knowledge Javascript and Javascript frameworks such as **React** and **Stimulus.js**. Significant experience in working with GraphQL. Passable skills in CSS.
+
+:   Rusty knowledge of **C#**, **Java**, **Haskell**.
 
 Other
 : **Software Testing**: Significant experience in test automation and software testing. Significant experience in establishing software testing best practices in various organizations.
+
 Education
 ---------
 
@@ -70,6 +69,7 @@ Education
      * French (Basic)
 
 * I enjoy climbing, reading and hiking. 
+* I briefly wrote for the [Appsignal blog](https://blog.appsignal.com/)
 
 ----
 
