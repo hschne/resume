@@ -35,9 +35,9 @@ Technical Experience
 Technologies
 :   **Backend:** Several years of exerience with **Ruby on Rails** backends and relational databases, in particular **MySQL**. Significant experience maintaining both REST and GraphQL APIs. Significant experience optimizing application performance using Opentelemetry. Experience in messaging infrastructure such as ActiveMQ, Google Cloud PubSub.
 
-:   **Infrastructure**: Good knowledgeg of **Docker and Kubernetes**. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintainging and optimizing build pipleines ()
+:   **Infrastructure**: Good knowledge of **Docker and Kubernetes**. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintainging and optimizing build pipelines.
 
-:   **Frontend:** Good knowledge Javascript and Javascript frameworks such as **React** and Stimulus.js. Significant experience in working with GraphQL. Passable skills in CSS.
+:   **Frontend:** Good knowledge of Javascript and Javascript frameworks such as **React** and Stimulus.js. Significant experience in working with GraphQL. Passable skills in CSS.
 
 :   Rusty knowledge of **C#**, **Java**, **Haskell**.
 
