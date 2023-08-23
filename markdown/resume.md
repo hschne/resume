@@ -26,7 +26,7 @@ Experience
 :   **Tricentis Technology & Consulting Gmbh.**   
     *Technical Consultant*
 
-    Part of a scrum team, developed integrations for core products using C#. Developed and maintained WebsphereMQ and ActiveMQ integrations. Helped develop customer facing web applications using AngularJS. Held various workshops and implemented solutions at customer sites.  
+    Part of a scrum team, developed integrations for core products using C#. Developed and maintained WebsphereMQ and ActiveMQ integrations. Helped develop customer-facing web applications using AngularJS. Held various workshops and implemented solutions at customer sites.  
     www.tricentis.at
 
 Technical Experience
@@ -35,7 +35,7 @@ Technical Experience
 Technologies
 :   **Backend:** Several years of exerience with **Ruby on Rails** backends and relational databases, in particular **MySQL**. Significant experience maintaining both REST and GraphQL APIs. Significant experience optimizing application performance using Opentelemetry. Experience in messaging infrastructure such as ActiveMQ, Google Cloud PubSub.
 
-:   **Infrastructure**: Good knowledge of **Docker and Kubernetes**. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintaining and optimizing build pipelines.
+:   **Infrastructure**: Good knowledgeg of **Docker and Kubernetes**. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintaining and optimizing build pipelines ()
 
 :   **Frontend:** Good knowledge of Javascript and Javascript frameworks such as **React** and Stimulus.js. Significant experience in working with GraphQL. Passable skills in CSS.
 
@@ -45,7 +45,7 @@ Side Projects
 :   Author and maintainer of [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/). Minor contributions to various Ruby libraries.
 
 Testing
-:   Significant experience in test automation and software testing on both backend and frontend. Significant experience in establishing software testing best practices in various organizations.
+:   Significant experience in test automation and software testing on both the backend and frontend. Significant expertise in establishing software testing best practices in various organizations.
 
 Education
 ---------
@@ -68,7 +68,7 @@ Education
      * English (Fluent)
      * French (Basic)
 
-* I enjoy climbing, reading and hiking. 
+* I enjoy climbing, reading, and hiking. 
 * I briefly wrote for the [Appsignal blog](https://blog.appsignal.com/)
 
 ----
