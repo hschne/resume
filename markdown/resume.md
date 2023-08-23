@@ -14,13 +14,13 @@ Experience
 :   **Splendit IT-Consulting**  
     *Software Engineer*
 
-    Developed an Eclipse plugin for automated code refactoring. Improved internal build pipeline using Docker & Jenkins. 
+    Developed an Eclipse plugin for automated code refactoring. Improved internal of build pipeline using Docker & Jenkins. 
 
 2016 - 2020
 :   **Technische Universität Wien**  
     *Tutor*  
 
-    Coached students in courses for project management, software quality assurance, and requirements engineering.  
+    Coached students in courses for project management, software quality assurance and requirements engineering.  
 
 2013-2015
 :   **Tricentis Technology & Consulting Gmbh.**   
@@ -35,9 +35,9 @@ Technical Experience
 Technologies
 :   **Backend:** Several years of exerience with **Ruby on Rails** backends and relational databases, in particular **MySQL**. Significant experience maintaining both REST and GraphQL APIs. Significant experience optimizing application performance using Opentelemetry. Experience in messaging infrastructure such as ActiveMQ, Google Cloud PubSub.
 
-:   **Infrastructure**: Good knowledgeg of **Docker and Kubernetes**. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintaining and optimizing build pipelines ()
+:   **Infrastructure**: Good knowledge of **Docker and Kubernetes**. Solid knowledge of creating and maintaining Helm charts for internal infrastructure. Excellent knowledge of maintaining and optimizing build pipelines ()
 
-:   **Frontend:** Good knowledge of Javascript and Javascript frameworks such as **React** and Stimulus.js. Significant experience in working with GraphQL. Passable skills in CSS.
+:   **Frontend:** Good knowledge Javascript and Javascript frameworks such as **React** and Stimulus.js. Significant experience in working with GraphQL. Passable skills in CSS.
 
 :   Rusty knowledge of **C#**, **Java**, **Haskell**.
 
