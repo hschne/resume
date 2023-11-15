@@ -4,7 +4,7 @@ Hans-Jörg Schnedlitz
 Experience
 ----------
 
-2018 - now
+2018 - 2023
 :   **Meister**  
     *Backend Engineer, Staff Engineer*
 
@@ -73,4 +73,4 @@ Education
 
 ----
 
-> <hans.schnedlitz@gmail.com> • +43 (0)680 1212 783 •  Born 17.07.1990
+> <hello@hansschnedlitz.com> • +43 (0)680 1212 783 •  Born 17.07.1990
