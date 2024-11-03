@@ -4,6 +4,10 @@ Hans-Jörg Schnedlitz
 Experience
 ----------
 
+2024 - 
+:   **Hans Schnedlitz e.U**  
+    *Freelance, Ruby On Rails*
+
 2018 - 2023
 :   **Meister**  
     *Backend Engineer, Staff Engineer*
