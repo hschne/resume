@@ -1,0 +1,122 @@
+/* Github css */
+
+html,
+body {
+  margin: auto;
+  padding-right: 1em;
+  padding-left: 1em;
+  max-width: 44em;
+  background: black;
+  color: #fff;
+}
+
+body {
+  font:
+    13.34px helvetica,
+    arial,
+    freesans,
+    clean,
+    sans-serif;
+  line-height: 1.4;
+  padding: 3px;
+}
+p {
+  margin: 1em 0;
+}
+
+a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  cursor: text;
+}
+h1 {
+  font-size: 28px;
+  color: white;
+}
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: white;
+}
+h3 {
+  font-size: 18px;
+}
+h4 {
+  font-size: 16px;
+}
+h5 {
+  font-size: 14px;
+}
+h6 {
+  font-size: 14px;
+}
+p,
+blockquote,
+table,
+pre {
+  margin: 15px 0;
+}
+ul {
+  padding-left: 30px;
+}
+ol {
+  padding-left: 30px;
+}
+ol li ul:first-of-type {
+  margin-top: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+body > h1:first-child + h2 {
+  margin-top: 0;
+  padding-top: 0;
+}
+body > h3:first-child,
+body > h4:first-child,
+body > h5:first-child,
+body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+a:first-child h1,
+a:first-child h2,
+a:first-child h3,
+a:first-child h4,
+a:first-child h5,
+a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p,
+ul li > :first-child,
+ol li > :first-child {
+  margin-top: 0;
+}
+
+.columns {
+  display: flex;
+  flex: row;
+}
