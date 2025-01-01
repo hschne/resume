@@ -2,60 +2,68 @@
 title: Hans Schnedlitz
 ---
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [sdsawtelle.github.io](http://sdsawtelle.github.io) ] . [ sonya.sawtelle@yale.edu ] . [ 802 461 3429 ]
+**I'm a Ruby on Rails engineer focused on backend and infrastructure. No, that doesn't mean I'm scared of CSS**.
 
+###### [ [hansschnedlitz.com](https://hansschnedlitz.com) ] [ hello@hansschnedlitz.com ] [ +43 680 1212 783 ]
 
 ::::: { .columns }
 
 ::: { .column }
 
-Education
----------
-**Ph.D. program in Applied Physics, Yale University** (2012-present)
+## Experience
 
-- Research on transport in metal nanostructures. 
+### **Ruby on Rails Engineer, Freelance** (2024-present)
+
+- Research on transport in metal nanostructures.
 - Coursework in physics, engineering, and statistics.
 
-**B.S. in Physics, Indiana University** (2008-2011)
+**Staff Engineer, Meister** (2018-2023)
 
-- Baccalaureate with Departmental Honors and Highest Distinction, 3.98/4.0 GPA
+- Tech Lead for MeisterTask team.
+- Lead migration to Kubernetes. Introduced Observability and OpenTelemetry.
+- Feature development focused on APIs (GraphQL, REST). Developed several integrations (Zapier, Google Calendar, GitHub...).
 
-**MOOCs** (ongoing)
+**Software Engineer, Splendit IT-Consulting** (2017-2018)
 
-- Machine Learning (Stanford, Andrew Ng)
+- Developed Eclipse plugin for automated code refactoring
+- Streamlined internal processes & continuous integration using Docker & Jenkins
 
-Experience
----------
-**Independent Researcher, Yale University** (2012-present, New Haven CT)
+**Tutor, TU Vienna** (2016-2020)
 
-- Data analysis and simulation in Python and MATLAB, and instrument control in C++. Designed and executed experiments across four projects and managed several undegraduate students.
+- Coaching in project management, software quality assurance & requirements engineering
 
-**MCAT Instructor, Kaplan Test Prep** (2011-2012, New Haven CT)
+**Technical Consultant, Tricentis** (2013-2015)
 
-- Planned and delivered lectures on core content in undergraduate Physics, Chemistry and Biology to medium-sized groups of undergraduates.
+- Developed extensions for test automation in Java, C#, Delphi.
+- Maintained WebsphereMQ and ActiveMQ integrations.
 
-::: 
+## Projects & OSS
+
+**[Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/)**, **[GraphQL Groups](https://github.com/hschne/rails-mini-profiler/)** (2021-present)
+
+**[Guest Author, AppSignal](https://blog.appsignal.com/authors/hans-j%C3%B6rg-schnedlitz.html)** (2020-present)
+
+**[Co-Organizer Vienna.rb](https://www.meetup.com/vienna-rb/)** (2024-present)
+
+- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.
+
+:::
 
 ::: { .column }
- 
-Skills
-------
-**Programming:** Python, MATLAB, SQL, R, git, HTML/CSS
 
-**Python SciPy Tools:** Pandas, Numpy, Matplotlib, Scikit-learn
+## Education
 
-Awards
-------
-- **Sterling Prize Fellowship**, Yale University (2013). Awarded to 30 out of 10,500 applicants.
-- **IU Founders Scholar**, Indiana University (2012)
-- **Baccalaureate with Highest Distinction**, Indiana University (2012). Granted to 5 students out of 498 in the class.
+**BSc Software Engineering, TU Vienna** (2015-2020)
 
-Projects
---------
-**[*Evening Sessions: Explorations in Data Science and Python* Blog](http://sdsawtelle.github.io/blog/output/index.html)** (2015-present)
+**Mathematics in Computing, TU Vienna** (2009-2013)
 
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.  
+## Skills
 
-::: 
+**Backend:** Ruby on Rails, MySQL, GraphQL, Rest, Performance
+
+**Infrastructure:** Docker, Bash, Kubernetes, Helm, Ansible
+
+**Frontend**: StimulusJS, React, HTML, CSS, Tailwind
+
+:::
 :::::
