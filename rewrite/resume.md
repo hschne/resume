@@ -2,9 +2,11 @@
 title: Hans Schnedlitz
 ---
 
-**I'm a Ruby on Rails engineer focused on backend and infrastructure. No, that doesn't mean I'm scared of CSS**.
+::: {.header }
 
-###### [ [hansschnedlitz.com](https://hansschnedlitz.com) ] [ hello@hansschnedlitz.com ] [ +43 680 1212 783 ]
+_I'm a Ruby on Rails engineer focused on backend and infrastructure. No, that doesn't mean I'm scared of CSS & JS._
+
+:::
 
 ::::: { .columns }
 
@@ -12,58 +14,83 @@ title: Hans Schnedlitz
 
 ## Experience
 
-### **Ruby on Rails Engineer, Freelance** (2024-present)
+::: {.job-header}
 
-- Research on transport in metal nanostructures.
-- Coursework in physics, engineering, and statistics.
+### Ruby on Rails Engineer
 
-**Staff Engineer, Meister** (2018-2023)
+#### Self-employed, 2024-present
 
-- Tech Lead for MeisterTask team.
-- Lead migration to Kubernetes. Introduced Observability and OpenTelemetry.
-- Feature development focused on APIs (GraphQL, REST). Developed several integrations (Zapier, Google Calendar, GitHub...).
+:::
 
-**Software Engineer, Splendit IT-Consulting** (2017-2018)
+::: {.job-header}
 
-- Developed Eclipse plugin for automated code refactoring
-- Streamlined internal processes & continuous integration using Docker & Jenkins
+### Staff Engineer
 
-**Tutor, TU Vienna** (2016-2020)
+#### Meister, 2018-2023
 
-- Coaching in project management, software quality assurance & requirements engineering
+:::
 
-**Technical Consultant, Tricentis** (2013-2015)
+Tech Lead for MeisterTask team. Lead migration to Kubernetes. Introduced Observability and OpenTelemetry. Feature development focused on APIs (GraphQL, REST). Developed several integrations (Zapier, Google Calendar, GitHub...).
 
-- Developed extensions for test automation in Java, C#, Delphi.
-- Maintained WebsphereMQ and ActiveMQ integrations.
+::: {.job-header}
+
+### Software Engineer
+
+#### Splendit IT-Consulting (2017-2018)
+
+:::
+
+Developed Eclipse plugin for automated code refactoring. Streamlined internal processes & continuous integration using Docker & Jenkins.
+
+::: {.job-header}
+
+### Technical Consultant
+
+#### Tricentis (2013-2015)
+
+:::
+
+Developed extensions for test automation in Java, C#, Delphi. Maintained WebsphereMQ and ActiveMQ integrations.
 
 ## Projects & OSS
 
-**[Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/)**, **[GraphQL Groups](https://github.com/hschne/rails-mini-profiler/)** (2021-present)
+- [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/), [GraphQL Groups](https://github.com/hschne/rails-mini-profiler/), and [more](https://github.com/hschne/)
 
-**[Guest Author, AppSignal](https://blog.appsignal.com/authors/hans-j%C3%B6rg-schnedlitz.html)** (2020-present)
+- [Guest Author, AppSignal](https://blog.appsignal.com/authors/hans-j%C3%B6rg-schnedlitz.html)
 
-**[Co-Organizer Vienna.rb](https://www.meetup.com/vienna-rb/)** (2024-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to pure Python programming, data science and statistics.
+- [Co-Organizer Vienna.rb](https://www.meetup.com/vienna-rb/)
 
 :::
 
 ::: { .column }
 
-## Education
-
-**BSc Software Engineering, TU Vienna** (2015-2020)
-
-**Mathematics in Computing, TU Vienna** (2009-2013)
-
 ## Skills
 
-**Backend:** Ruby on Rails, MySQL, GraphQL, Rest, Performance
+### Backend
 
-**Infrastructure:** Docker, Bash, Kubernetes, Helm, Ansible
+Ruby on Rails, MySQL, GraphQL, Rest, Performance
 
-**Frontend**: StimulusJS, React, HTML, CSS, Tailwind
+### Infrastructure
+
+Docker, OpenTelemetry, Kubernetes, Helm, Ansible
+
+### Frontend
+
+StimulusJS, React, HTML, CSS, Tailwind
+
+## Education
+
+- BSc Software Engineering  
+  TU Wien (2015-2020)
+
+- Mathematics  
+  TU Wien (2009-2013)
+
+## Contact
+
+- [hansschnedlitz.com](https://hansschnedlitz.com)
+- [hello@hansschnedlitz.com ](hello@hansschnedlitz.com)
+- [ +43 680 1212 783 ](tel:+436801212783)
 
 :::
 :::::
