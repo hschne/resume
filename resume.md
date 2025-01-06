@@ -4,7 +4,7 @@ title: Hans Schnedlitz
 
 ::: {.header }
 
-_I'm a Ruby on Rails engineer focused on backend and infrastructure. No, that doesn't mean I'm scared of CSS & JS._
+_I'm a Ruby on Rails engineer specializing in backend and infrastructure. That doesn't mean I'm scared of CSS & JS, though. I like building neat products._
 
 :::
 
@@ -52,13 +52,13 @@ Developed Eclipse plugin for automated code refactoring. Streamlined internal pr
 
 Developed extensions for test automation in Java, C#, Delphi. Maintained WebsphereMQ and ActiveMQ integrations.
 
-## Projects & OSS
+## Projects
+
+- [Co-Organizer Vienna.rb Ruby Meetup](https://www.meetup.com/vienna-rb/)
+
+- [Guest Author, AppSignal & RorVsWild](https://blog.appsignal.com/authors/hans-j%C3%B6rg-schnedlitz.html)
 
 - [Rails Mini Profiler](https://github.com/hschne/rails-mini-profiler/), [GraphQL Groups](https://github.com/hschne/rails-mini-profiler/), and [more](https://github.com/hschne/)
-
-- [Guest Author, AppSignal](https://blog.appsignal.com/authors/hans-j%C3%B6rg-schnedlitz.html)
-
-- [Co-Organizer Vienna.rb](https://www.meetup.com/vienna-rb/)
 
 :::
 
@@ -68,7 +68,7 @@ Developed extensions for test automation in Java, C#, Delphi. Maintained Websphe
 
 ### Backend
 
-Ruby on Rails, MySQL, GraphQL, Rest, Performance
+Ruby on Rails, MySQL, GraphQL, REST, Sidekiq
 
 ### Infrastructure
 
@@ -88,9 +88,9 @@ StimulusJS, React, HTML, CSS, Tailwind
 
 ## Contact
 
-- [hansschnedlitz.com](https://hansschnedlitz.com)
-- [hello@hansschnedlitz.com ](hello@hansschnedlitz.com)
-- [ +43 680 1212 783 ](tel:+436801212783)
+- Web: [hansschnedlitz.com](https://hansschnedlitz.com)
+- Mail: [hello@hansschnedlitz.com ](hello@hansschnedlitz.com)
+- Tel: [ +43 680 1212 783 ](tel:+436801212783)
 
 :::
 :::::
