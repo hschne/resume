@@ -2,8 +2,6 @@
   
 # Markdown Resume
 
-![image](https://github.com/user-attachments/assets/9fd792e1-1201-44f1-9f9c-eb7ea98d4d36)
-
 </div>
 
 A resume, built using Markdown. Uses CSS for styling. To build, run:
